@@ -713,6 +713,10 @@
         {
             "format": "SY-[cy:yyyy-MM-dd]-[SEQ_EG_DOC_ID]",
             "idname": "ss.surveyid"
+        },
+        {
+            "format": "PB-ADV-[cy:yyyy-MM-dd]-[SEQ_EG_ADV_ID]",
+            "idname": "individual.id"
         }
     ]
 }
